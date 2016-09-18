@@ -1,0 +1,8 @@
+<html>
+<body>
+<script>
+'use strict';
+alert('Привет'>'Вася!');
+</script>
+</body>
+</html>
